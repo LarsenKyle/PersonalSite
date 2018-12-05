@@ -1,0 +1,43 @@
+*{box-sizing: border-box;
+  font-family: 'Karla', sans-serif;
+}
+
+h1{
+  margin-top: 15px;
+  font-family: 'Lora', serif;
+  padding-top: 20px;
+  font-size: 3em;
+  font-weight: lighter;
+}
+p{
+  margin: 0;
+  margin-bottom: 1em;
+  line-height: 1.45em;
+
+}
+img{
+  margin-top: 5em;
+}
+
+.my_pic{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%
+}
+
+.top_card{background: linear-gradient(to bottom, #ACD1E9 50%, white 50%);
+  margin-top: -25px;
+  text-align: center;
+}
+
+.container{
+  margin: auto;
+  width: 100%;
+  text-align: center;
+
+}
+.wrap{
+  text-align: left;
+  margin: 0 auto;
+  width: 80%;
+}
